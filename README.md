@@ -6,4 +6,4 @@ The "nospeed"  gerbers have the speed switch circuit cut from the PCB.
 
 I suggest ordering 1.2mm thick board.  1.6 will work, but it takes some extra heat to attach it to the motherboard
 
-DONT USE THE NO SPEED GERBERS YET!!!!  a pull up was removed from the schematic with the speed circuit, it still SHOULD work, but cant guarantee it until I fix it.
+12-14-2023: I have fixed the "speed removed" gerbers and restored the pull up on the speed step circuit. 
